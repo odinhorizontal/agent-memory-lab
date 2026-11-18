@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agent-memory-lab"
+version = "0.1.0"
+description = "A lightweight research and visualization platform for long-term memory in AI agents."
+requires-python = ">=3.11"
+dependencies = [
+    "jieba==0.42.1",
+    "numpy>=1.26,<3",
+    "plotly>=5.22,<7",
+    "psutil>=5.9,<8",
+    "streamlit>=1.40,<2",
+    "jsonschema>=4.23,<5",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<10"]
+
+[project.scripts]
+memory-benchmark = "agent_memory_lab.evaluation.benchmark:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
