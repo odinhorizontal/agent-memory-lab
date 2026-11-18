@@ -1,0 +1,3917 @@
+{
+  "seed": 42,
+  "facts": [
+    {
+      "id": "memory-0001",
+      "candidate": {
+        "content": "The Pine enclosure material is copper.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:01:00+00:00"
+    },
+    {
+      "id": "memory-0002",
+      "candidate": {
+        "content": "The Flint enclosure material is titanium.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:02:00+00:00"
+    },
+    {
+      "id": "memory-0003",
+      "candidate": {
+        "content": "The Sage enclosure material is glass.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:03:00+00:00"
+    },
+    {
+      "id": "memory-0004",
+      "candidate": {
+        "content": "The Yew enclosure material is steel.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:04:00+00:00"
+    },
+    {
+      "id": "memory-0005",
+      "candidate": {
+        "content": "The Nettle enclosure material is quartz.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:05:00+00:00"
+    },
+    {
+      "id": "memory-0006",
+      "candidate": {
+        "content": "The Kite enclosure material is carbon fiber.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:06:00+00:00"
+    },
+    {
+      "id": "memory-0007",
+      "candidate": {
+        "content": "The Rowan enclosure material is brass.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:07:00+00:00"
+    },
+    {
+      "id": "memory-0008",
+      "candidate": {
+        "content": "The Laurel enclosure material is linen.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:08:00+00:00"
+    },
+    {
+      "id": "memory-0009",
+      "candidate": {
+        "content": "The Opal enclosure material is ceramic.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:09:00+00:00"
+    },
+    {
+      "id": "memory-0010",
+      "candidate": {
+        "content": "The Quartz enclosure material is aluminum.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:10:00+00:00"
+    },
+    {
+      "id": "memory-0011",
+      "candidate": {
+        "content": "The incident runbook requires a second reviewer for Beryl.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:11:00+00:00"
+    },
+    {
+      "id": "memory-0012",
+      "candidate": {
+        "content": "Maple refrigerates samples immediately after collection.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:12:00+00:00"
+    },
+    {
+      "id": "memory-0013",
+      "candidate": {
+        "content": "Violet maintains a fortnightly inspection schedule.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:13:00+00:00"
+    },
+    {
+      "id": "memory-0014",
+      "candidate": {
+        "content": "The Garnet connector supports automatic failover.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:14:00+00:00"
+    },
+    {
+      "id": "memory-0015",
+      "candidate": {
+        "content": "Juniper prohibits storing plaintext credentials.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:15:00+00:00"
+    },
+    {
+      "id": "memory-0016",
+      "candidate": {
+        "content": "Cedar staggers its nightly snapshots across regions.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:16:00+00:00"
+    },
+    {
+      "id": "memory-0017",
+      "candidate": {
+        "content": "Willow stores its spare probes in the sealed cabinet.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:17:00+00:00"
+    },
+    {
+      "id": "memory-0018",
+      "candidate": {
+        "content": "Elm publishes all measurements using metric units.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:18:00+00:00"
+    },
+    {
+      "id": "memory-0019",
+      "candidate": {
+        "content": "Thyme initially uses MariaDB as its database.",
+        "memory_type": "semantic",
+        "entity": "Thyme",
+        "attribute": "database",
+        "value": "MariaDB",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:19:00+00:00"
+    },
+    {
+      "id": "memory-0021",
+      "candidate": {
+        "content": "Hazel initially uses PostgreSQL as its database.",
+        "memory_type": "semantic",
+        "entity": "Hazel",
+        "attribute": "database",
+        "value": "PostgreSQL",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:21:00+00:00"
+    },
+    {
+      "id": "memory-0023",
+      "candidate": {
+        "content": "Iris initially uses DuckDB as its database.",
+        "memory_type": "semantic",
+        "entity": "Iris",
+        "attribute": "database",
+        "value": "DuckDB",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:23:00+00:00"
+    },
+    {
+      "id": "memory-0025",
+      "candidate": {
+        "content": "Aster initially uses MariaDB as its database.",
+        "memory_type": "semantic",
+        "entity": "Aster",
+        "attribute": "database",
+        "value": "MariaDB",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:25:00+00:00"
+    },
+    {
+      "id": "memory-0027",
+      "candidate": {
+        "content": "Dahlia initially uses PostgreSQL as its database.",
+        "memory_type": "semantic",
+        "entity": "Dahlia",
+        "attribute": "database",
+        "value": "PostgreSQL",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:27:00+00:00"
+    },
+    {
+      "id": "memory-0029",
+      "candidate": {
+        "content": "Umber initially uses SQLite as its database.",
+        "memory_type": "semantic",
+        "entity": "Umber",
+        "attribute": "database",
+        "value": "SQLite",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:29:00+00:00"
+    },
+    {
+      "id": "memory-0031",
+      "candidate": {
+        "content": "North Pier inspection scheduled Friday according to the crew.",
+        "memory_type": "semantic",
+        "entity": "North Pier",
+        "attribute": "inspection-date",
+        "value": "Friday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:31:00+00:00"
+    },
+    {
+      "id": "memory-0032",
+      "candidate": {
+        "content": "North Pier inspection reported Monday by operations.",
+        "memory_type": "semantic",
+        "entity": "North Pier",
+        "attribute": "inspection-date",
+        "value": "Monday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:32:00+00:00"
+    },
+    {
+      "id": "memory-0033",
+      "candidate": {
+        "content": "East Pier inspection scheduled Thursday according to the crew.",
+        "memory_type": "semantic",
+        "entity": "East Pier",
+        "attribute": "inspection-date",
+        "value": "Thursday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:33:00+00:00"
+    },
+    {
+      "id": "memory-0034",
+      "candidate": {
+        "content": "East Pier inspection reported Tuesday by operations.",
+        "memory_type": "semantic",
+        "entity": "East Pier",
+        "attribute": "inspection-date",
+        "value": "Tuesday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:34:00+00:00"
+    },
+    {
+      "id": "memory-0035",
+      "candidate": {
+        "content": "West Pier inspection scheduled Thursday according to the crew.",
+        "memory_type": "semantic",
+        "entity": "West Pier",
+        "attribute": "inspection-date",
+        "value": "Thursday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:35:00+00:00"
+    },
+    {
+      "id": "memory-0036",
+      "candidate": {
+        "content": "West Pier inspection reported Monday by operations.",
+        "memory_type": "semantic",
+        "entity": "West Pier",
+        "attribute": "inspection-date",
+        "value": "Monday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:36:00+00:00"
+    },
+    {
+      "id": "memory-0037",
+      "candidate": {
+        "content": "South Pier inspection scheduled Friday according to the crew.",
+        "memory_type": "semantic",
+        "entity": "South Pier",
+        "attribute": "inspection-date",
+        "value": "Friday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:37:00+00:00"
+    },
+    {
+      "id": "memory-0038",
+      "candidate": {
+        "content": "South Pier inspection reported Thursday by operations.",
+        "memory_type": "semantic",
+        "entity": "South Pier",
+        "attribute": "inspection-date",
+        "value": "Thursday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:38:00+00:00"
+    },
+    {
+      "id": "memory-0039",
+      "candidate": {
+        "content": "Hill Depot inspection scheduled Monday according to the crew.",
+        "memory_type": "semantic",
+        "entity": "Hill Depot",
+        "attribute": "inspection-date",
+        "value": "Monday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:39:00+00:00"
+    },
+    {
+      "id": "memory-0040",
+      "candidate": {
+        "content": "Hill Depot inspection reported Tuesday by operations.",
+        "memory_type": "semantic",
+        "entity": "Hill Depot",
+        "attribute": "inspection-date",
+        "value": "Tuesday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:40:00+00:00"
+    },
+    {
+      "id": "memory-0041",
+      "candidate": {
+        "content": "Cove Depot inspection scheduled Monday according to the crew.",
+        "memory_type": "semantic",
+        "entity": "Cove Depot",
+        "attribute": "inspection-date",
+        "value": "Monday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:41:00+00:00"
+    },
+    {
+      "id": "memory-0042",
+      "candidate": {
+        "content": "Cove Depot inspection reported Thursday by operations.",
+        "memory_type": "semantic",
+        "entity": "Cove Depot",
+        "attribute": "inspection-date",
+        "value": "Thursday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:42:00+00:00"
+    },
+    {
+      "id": "memory-0043",
+      "candidate": {
+        "content": "River Depot inspection scheduled Thursday according to the crew.",
+        "memory_type": "semantic",
+        "entity": "River Depot",
+        "attribute": "inspection-date",
+        "value": "Thursday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:43:00+00:00"
+    },
+    {
+      "id": "memory-0044",
+      "candidate": {
+        "content": "River Depot inspection reported Friday by operations.",
+        "memory_type": "semantic",
+        "entity": "River Depot",
+        "attribute": "inspection-date",
+        "value": "Friday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:44:00+00:00"
+    },
+    {
+      "id": "memory-0045",
+      "candidate": {
+        "content": "Lake Depot inspection scheduled Thursday according to the crew.",
+        "memory_type": "semantic",
+        "entity": "Lake Depot",
+        "attribute": "inspection-date",
+        "value": "Thursday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:45:00+00:00"
+    },
+    {
+      "id": "memory-0046",
+      "candidate": {
+        "content": "Lake Depot inspection reported Friday by operations.",
+        "memory_type": "semantic",
+        "entity": "Lake Depot",
+        "attribute": "inspection-date",
+        "value": "Friday",
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:46:00+00:00"
+    },
+    {
+      "id": "memory-0047",
+      "candidate": {
+        "content": "The Beacon station is serviced by Team Orchid.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:47:00+00:00"
+    },
+    {
+      "id": "memory-0048",
+      "candidate": {
+        "content": "Team Orchid maintains the barometer and signs the calibration log.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:48:00+00:00"
+    },
+    {
+      "id": "memory-0049",
+      "candidate": {
+        "content": "The Harbor station is serviced by Team Cypress.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:49:00+00:00"
+    },
+    {
+      "id": "memory-0050",
+      "candidate": {
+        "content": "Team Cypress maintains the hygrometer and signs the calibration log.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:50:00+00:00"
+    },
+    {
+      "id": "memory-0051",
+      "candidate": {
+        "content": "The Summit station is serviced by Team Frond.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:51:00+00:00"
+    },
+    {
+      "id": "memory-0052",
+      "candidate": {
+        "content": "Team Frond maintains the barometer and signs the calibration log.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:52:00+00:00"
+    },
+    {
+      "id": "memory-0053",
+      "candidate": {
+        "content": "The Delta station is serviced by Team Lotus.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:53:00+00:00"
+    },
+    {
+      "id": "memory-0054",
+      "candidate": {
+        "content": "Team Lotus maintains the barometer and signs the calibration log.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:54:00+00:00"
+    },
+    {
+      "id": "memory-0055",
+      "candidate": {
+        "content": "The Ridge station is serviced by Team Spruce.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:55:00+00:00"
+    },
+    {
+      "id": "memory-0056",
+      "candidate": {
+        "content": "Team Spruce maintains the hygrometer and signs the calibration log.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:56:00+00:00"
+    },
+    {
+      "id": "memory-0057",
+      "candidate": {
+        "content": "The Dune station is serviced by Team Moss.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:57:00+00:00"
+    },
+    {
+      "id": "memory-0058",
+      "candidate": {
+        "content": "Team Moss maintains the barometer and signs the calibration log.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-01T00:58:00+00:00"
+    },
+    {
+      "id": "memory-0142",
+      "candidate": {
+        "content": "Station Opal Annex 142 archived a calibration log for its enclosure.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-02T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-02T02:22:00+00:00"
+    },
+    {
+      "id": "memory-0166",
+      "candidate": {
+        "content": "Project Flint Annex 166 measured maintenance costs for paper records.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-02T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-02T02:46:00+00:00"
+    },
+    {
+      "id": "memory-0098",
+      "candidate": {
+        "content": "Team Thyme Annex 98 tested a backup database for weather observations.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-03T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-03T01:38:00+00:00"
+    },
+    {
+      "id": "memory-0135",
+      "candidate": {
+        "content": "Warehouse Hazel Annex 135 photographed the storage cabinet after a checklist review.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-04T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-04T02:15:00+00:00"
+    },
+    {
+      "id": "memory-0125",
+      "candidate": {
+        "content": "Warehouse Thyme Annex 125 photographed the storage cabinet after a checklist review.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-12T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-12T02:05:00+00:00"
+    },
+    {
+      "id": "memory-0120",
+      "candidate": {
+        "content": "Depot Umber Annex 120 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-16T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-16T02:00:00+00:00"
+    },
+    {
+      "id": "memory-0068",
+      "candidate": {
+        "content": "Depot Violet Annex 68 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-18T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-18T01:08:00+00:00"
+    },
+    {
+      "id": "memory-0096",
+      "candidate": {
+        "content": "Team Laurel Annex 96 tested a backup database for weather observations.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-18T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-18T01:36:00+00:00"
+    },
+    {
+      "id": "memory-0123",
+      "candidate": {
+        "content": "Warehouse Sage Annex 123 photographed the storage cabinet after a checklist review.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-19T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-19T02:03:00+00:00"
+    },
+    {
+      "id": "memory-0167",
+      "candidate": {
+        "content": "Project Maple Annex 167 measured maintenance costs for paper records.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-19T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-19T02:47:00+00:00"
+    },
+    {
+      "id": "memory-0100",
+      "candidate": {
+        "content": "Depot Flint Annex 100 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-20T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-20T01:40:00+00:00"
+    },
+    {
+      "id": "memory-0122",
+      "candidate": {
+        "content": "Warehouse Flint Annex 122 photographed the storage cabinet after a checklist review.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-22T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-22T02:02:00+00:00"
+    },
+    {
+      "id": "memory-0141",
+      "candidate": {
+        "content": "Station Opal Annex 141 archived a calibration log for its enclosure.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-25T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-25T02:21:00+00:00"
+    },
+    {
+      "id": "memory-0104",
+      "candidate": {
+        "content": "Station Rowan Annex 104 archived a calibration log for its enclosure.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-26T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-26T01:44:00+00:00"
+    },
+    {
+      "id": "memory-0080",
+      "candidate": {
+        "content": "Depot Iris Annex 80 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-01-30T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-01-30T01:20:00+00:00"
+    },
+    {
+      "id": "memory-0091",
+      "candidate": {
+        "content": "Team Elm Annex 91 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-03T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-03T01:31:00+00:00"
+    },
+    {
+      "id": "memory-0073",
+      "candidate": {
+        "content": "Team Maple Annex 73 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-06T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-06T01:13:00+00:00"
+    },
+    {
+      "id": "memory-0109",
+      "candidate": {
+        "content": "Project Elm Annex 109 measured maintenance costs for paper records.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-06T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-06T01:49:00+00:00"
+    },
+    {
+      "id": "memory-0070",
+      "candidate": {
+        "content": "Project Violet Annex 70 measured maintenance costs for paper records.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-07T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-07T01:10:00+00:00"
+    },
+    {
+      "id": "memory-0147",
+      "candidate": {
+        "content": "Warehouse Thyme Annex 147 photographed the storage cabinet after a checklist review.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-08T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-08T02:27:00+00:00"
+    },
+    {
+      "id": "memory-0181",
+      "candidate": {
+        "content": "Team Laurel Annex 181 tested a backup database for weather observations.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-08T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-08T03:01:00+00:00"
+    },
+    {
+      "id": "memory-0138",
+      "candidate": {
+        "content": "Warehouse Umber Annex 138 photographed the storage cabinet after a checklist review.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-10T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-10T02:18:00+00:00"
+    },
+    {
+      "id": "memory-0061",
+      "candidate": {
+        "content": "Depot Iris Annex 61 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-12T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-12T01:01:00+00:00"
+    },
+    {
+      "id": "memory-0064",
+      "candidate": {
+        "content": "Team Elm Annex 64 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-12T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-12T01:04:00+00:00"
+    },
+    {
+      "id": "memory-0143",
+      "candidate": {
+        "content": "Depot Nettle Annex 143 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-12T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-12T02:23:00+00:00"
+    },
+    {
+      "id": "memory-0113",
+      "candidate": {
+        "content": "Team Sage Annex 113 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-13T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-13T01:53:00+00:00"
+    },
+    {
+      "id": "memory-0162",
+      "candidate": {
+        "content": "Depot Yew Annex 162 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-16T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-16T02:42:00+00:00"
+    },
+    {
+      "id": "memory-0187",
+      "candidate": {
+        "content": "Team Garnet Annex 187 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-16T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-16T03:07:00+00:00"
+    },
+    {
+      "id": "memory-0165",
+      "candidate": {
+        "content": "Warehouse Violet Annex 165 photographed the storage cabinet after a checklist review.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-19T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-19T02:45:00+00:00"
+    },
+    {
+      "id": "memory-0108",
+      "candidate": {
+        "content": "Team Yew Annex 108 tested a backup database for weather observations.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-20T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-20T01:48:00+00:00"
+    },
+    {
+      "id": "memory-0184",
+      "candidate": {
+        "content": "Warehouse Iris Annex 184 photographed the storage cabinet after a checklist review.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-20T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-20T03:04:00+00:00"
+    },
+    {
+      "id": "memory-0156",
+      "candidate": {
+        "content": "Team Cedar Annex 156 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-22T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-22T02:36:00+00:00"
+    },
+    {
+      "id": "memory-0139",
+      "candidate": {
+        "content": "Warehouse Quartz Annex 139 photographed the storage cabinet after a checklist review.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-24T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-24T02:19:00+00:00"
+    },
+    {
+      "id": "memory-0149",
+      "candidate": {
+        "content": "Depot Flint Annex 149 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-24T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-24T02:29:00+00:00"
+    },
+    {
+      "id": "memory-0175",
+      "candidate": {
+        "content": "Depot Quartz Annex 175 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-24T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-24T02:55:00+00:00"
+    },
+    {
+      "id": "memory-0069",
+      "candidate": {
+        "content": "Depot Thyme Annex 69 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-25T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-25T01:09:00+00:00"
+    },
+    {
+      "id": "memory-0101",
+      "candidate": {
+        "content": "Project Opal Annex 101 measured maintenance costs for paper records.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-25T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-25T01:41:00+00:00"
+    },
+    {
+      "id": "memory-0114",
+      "candidate": {
+        "content": "Project Cedar Annex 114 measured maintenance costs for paper records.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-25T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-25T01:54:00+00:00"
+    },
+    {
+      "id": "memory-0131",
+      "candidate": {
+        "content": "Warehouse Sage Annex 131 photographed the storage cabinet after a checklist review.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-02-25T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-02-25T02:11:00+00:00"
+    },
+    {
+      "id": "memory-0099",
+      "candidate": {
+        "content": "Station Dahlia Annex 99 archived a calibration log for its enclosure.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-01T01:39:00+00:00"
+    },
+    {
+      "id": "memory-0198",
+      "candidate": {
+        "content": "Team Nettle Annex 198 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-02T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-02T03:18:00+00:00"
+    },
+    {
+      "id": "memory-0196",
+      "candidate": {
+        "content": "Depot Sage Annex 196 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-03T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-03T03:16:00+00:00"
+    },
+    {
+      "id": "memory-0089",
+      "candidate": {
+        "content": "Station Laurel Annex 89 archived a calibration log for its enclosure.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-04T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-04T01:29:00+00:00"
+    },
+    {
+      "id": "memory-0185",
+      "candidate": {
+        "content": "Project Cedar Annex 185 measured maintenance costs for paper records.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-05T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-05T03:05:00+00:00"
+    },
+    {
+      "id": "memory-0188",
+      "candidate": {
+        "content": "Warehouse Flint Annex 188 photographed the storage cabinet after a checklist review.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-06T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-06T03:08:00+00:00"
+    },
+    {
+      "id": "memory-0092",
+      "candidate": {
+        "content": "Team Elm Annex 92 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-10T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-10T01:32:00+00:00"
+    },
+    {
+      "id": "memory-0154",
+      "candidate": {
+        "content": "Team Garnet Annex 154 tested a backup database for weather observations.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-11T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-11T02:34:00+00:00"
+    },
+    {
+      "id": "memory-0195",
+      "candidate": {
+        "content": "Team Iris Annex 195 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-13T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-13T03:15:00+00:00"
+    },
+    {
+      "id": "memory-0060",
+      "candidate": {
+        "content": "Project Yew Annex 60 measured maintenance costs for paper records.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-14T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-14T01:00:00+00:00"
+    },
+    {
+      "id": "memory-0159",
+      "candidate": {
+        "content": "Depot Violet Annex 159 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-14T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-14T02:39:00+00:00"
+    },
+    {
+      "id": "memory-0133",
+      "candidate": {
+        "content": "Depot Laurel Annex 133 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-15T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-15T02:13:00+00:00"
+    },
+    {
+      "id": "memory-0179",
+      "candidate": {
+        "content": "Station Aster Annex 179 archived a calibration log for its enclosure.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-15T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-15T02:59:00+00:00"
+    },
+    {
+      "id": "memory-0118",
+      "candidate": {
+        "content": "Team Nettle Annex 118 tested a backup database for weather observations.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-18T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-18T01:58:00+00:00"
+    },
+    {
+      "id": "memory-0148",
+      "candidate": {
+        "content": "Station Nettle Annex 148 archived a calibration log for its enclosure.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-21T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-21T02:28:00+00:00"
+    },
+    {
+      "id": "memory-0170",
+      "candidate": {
+        "content": "Project Aster Annex 170 measured maintenance costs for paper records.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-26T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-26T02:50:00+00:00"
+    },
+    {
+      "id": "memory-0161",
+      "candidate": {
+        "content": "Warehouse Aster Annex 161 photographed the storage cabinet after a checklist review.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-03-27T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-03-27T02:41:00+00:00"
+    },
+    {
+      "id": "memory-0150",
+      "candidate": {
+        "content": "Station Aster Annex 150 archived a calibration log for its enclosure.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-02T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-02T02:30:00+00:00"
+    },
+    {
+      "id": "memory-0115",
+      "candidate": {
+        "content": "Team Flint Annex 115 tested a backup database for weather observations.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-09T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-09T01:55:00+00:00"
+    },
+    {
+      "id": "memory-0155",
+      "candidate": {
+        "content": "Station Dahlia Annex 155 archived a calibration log for its enclosure.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-09T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-09T02:35:00+00:00"
+    },
+    {
+      "id": "memory-0076",
+      "candidate": {
+        "content": "Station Hazel Annex 76 archived a calibration log for its enclosure.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-10T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-10T01:16:00+00:00"
+    },
+    {
+      "id": "memory-0128",
+      "candidate": {
+        "content": "Depot Laurel Annex 128 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-13T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-13T02:08:00+00:00"
+    },
+    {
+      "id": "memory-0094",
+      "candidate": {
+        "content": "Depot Dahlia Annex 94 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-14T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-14T01:34:00+00:00"
+    },
+    {
+      "id": "memory-0200",
+      "candidate": {
+        "content": "Project Sage Annex 200 measured maintenance costs for paper records.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-16T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-16T03:20:00+00:00"
+    },
+    {
+      "id": "memory-0105",
+      "candidate": {
+        "content": "Project Maple Annex 105 measured maintenance costs for paper records.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-17T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-17T01:45:00+00:00"
+    },
+    {
+      "id": "memory-0072",
+      "candidate": {
+        "content": "Warehouse Umber Annex 72 photographed the storage cabinet after a checklist review.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-21T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-21T01:12:00+00:00"
+    },
+    {
+      "id": "memory-0164",
+      "candidate": {
+        "content": "Depot Maple Annex 164 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-23T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-23T02:44:00+00:00"
+    },
+    {
+      "id": "memory-0177",
+      "candidate": {
+        "content": "Project Juniper Annex 177 measured maintenance costs for paper records.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-25T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-25T02:57:00+00:00"
+    },
+    {
+      "id": "memory-0095",
+      "candidate": {
+        "content": "Warehouse Juniper Annex 95 photographed the storage cabinet after a checklist review.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-27T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-27T01:35:00+00:00"
+    },
+    {
+      "id": "memory-0193",
+      "candidate": {
+        "content": "Project Umber Annex 193 measured maintenance costs for paper records.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-27T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-27T03:13:00+00:00"
+    },
+    {
+      "id": "memory-0081",
+      "candidate": {
+        "content": "Team Garnet Annex 81 tested a backup database for weather observations.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-28T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-28T01:21:00+00:00"
+    },
+    {
+      "id": "memory-0183",
+      "candidate": {
+        "content": "Station Hazel Annex 183 archived a calibration log for its enclosure.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-28T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-28T03:03:00+00:00"
+    },
+    {
+      "id": "memory-0129",
+      "candidate": {
+        "content": "Depot Aster Annex 129 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-29T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-29T02:09:00+00:00"
+    },
+    {
+      "id": "memory-0130",
+      "candidate": {
+        "content": "Station Sage Annex 130 archived a calibration log for its enclosure.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-29T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-29T02:10:00+00:00"
+    },
+    {
+      "id": "memory-0110",
+      "candidate": {
+        "content": "Depot Kite Annex 110 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-04-30T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-04-30T01:50:00+00:00"
+    },
+    {
+      "id": "memory-0087",
+      "candidate": {
+        "content": "Depot Hazel Annex 87 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-05-07T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-05-07T01:27:00+00:00"
+    },
+    {
+      "id": "memory-0121",
+      "candidate": {
+        "content": "Project Thyme Annex 121 measured maintenance costs for paper records.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-05-10T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-05-10T02:01:00+00:00"
+    },
+    {
+      "id": "memory-0140",
+      "candidate": {
+        "content": "Depot Rowan Annex 140 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-05-11T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-05-11T02:20:00+00:00"
+    },
+    {
+      "id": "memory-0169",
+      "candidate": {
+        "content": "Depot Umber Annex 169 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-05-11T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-05-11T02:49:00+00:00"
+    },
+    {
+      "id": "memory-0077",
+      "candidate": {
+        "content": "Project Hazel Annex 77 measured maintenance costs for paper records.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-05-17T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-05-17T01:17:00+00:00"
+    },
+    {
+      "id": "memory-0097",
+      "candidate": {
+        "content": "Warehouse Pine Annex 97 photographed the storage cabinet after a checklist review.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-05-23T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-05-23T01:37:00+00:00"
+    },
+    {
+      "id": "memory-0171",
+      "candidate": {
+        "content": "Depot Dahlia Annex 171 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-05-23T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-05-23T02:51:00+00:00"
+    },
+    {
+      "id": "memory-0144",
+      "candidate": {
+        "content": "Project Elm Annex 144 measured maintenance costs for paper records.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-05-25T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-05-25T02:24:00+00:00"
+    },
+    {
+      "id": "memory-0126",
+      "candidate": {
+        "content": "Warehouse Garnet Annex 126 photographed the storage cabinet after a checklist review.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-05-26T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-05-26T02:06:00+00:00"
+    },
+    {
+      "id": "memory-0102",
+      "candidate": {
+        "content": "Warehouse Umber Annex 102 photographed the storage cabinet after a checklist review.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-05-29T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-05-29T01:42:00+00:00"
+    },
+    {
+      "id": "memory-0020",
+      "candidate": {
+        "content": "Thyme database migrated to SQLite.",
+        "memory_type": "semantic",
+        "entity": "Thyme",
+        "attribute": "database",
+        "value": "SQLite",
+        "scope": "global",
+        "valid_from": "2025-06-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": true,
+        "previous_value": "MariaDB"
+      },
+      "recorded_at": "2025-06-01T00:20:00+00:00"
+    },
+    {
+      "id": "memory-0022",
+      "candidate": {
+        "content": "Hazel database migrated to MariaDB.",
+        "memory_type": "semantic",
+        "entity": "Hazel",
+        "attribute": "database",
+        "value": "MariaDB",
+        "scope": "global",
+        "valid_from": "2025-06-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": true,
+        "previous_value": "PostgreSQL"
+      },
+      "recorded_at": "2025-06-01T00:22:00+00:00"
+    },
+    {
+      "id": "memory-0024",
+      "candidate": {
+        "content": "Iris database migrated to PostgreSQL.",
+        "memory_type": "semantic",
+        "entity": "Iris",
+        "attribute": "database",
+        "value": "PostgreSQL",
+        "scope": "global",
+        "valid_from": "2025-06-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": true,
+        "previous_value": "DuckDB"
+      },
+      "recorded_at": "2025-06-01T00:24:00+00:00"
+    },
+    {
+      "id": "memory-0026",
+      "candidate": {
+        "content": "Aster database migrated to SQLite.",
+        "memory_type": "semantic",
+        "entity": "Aster",
+        "attribute": "database",
+        "value": "SQLite",
+        "scope": "global",
+        "valid_from": "2025-06-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": true,
+        "previous_value": "MariaDB"
+      },
+      "recorded_at": "2025-06-01T00:26:00+00:00"
+    },
+    {
+      "id": "memory-0028",
+      "candidate": {
+        "content": "Dahlia database migrated to DuckDB.",
+        "memory_type": "semantic",
+        "entity": "Dahlia",
+        "attribute": "database",
+        "value": "DuckDB",
+        "scope": "global",
+        "valid_from": "2025-06-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": true,
+        "previous_value": "PostgreSQL"
+      },
+      "recorded_at": "2025-06-01T00:28:00+00:00"
+    },
+    {
+      "id": "memory-0030",
+      "candidate": {
+        "content": "Umber database migrated to DuckDB.",
+        "memory_type": "semantic",
+        "entity": "Umber",
+        "attribute": "database",
+        "value": "DuckDB",
+        "scope": "global",
+        "valid_from": "2025-06-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": true,
+        "previous_value": "SQLite"
+      },
+      "recorded_at": "2025-06-01T00:30:00+00:00"
+    },
+    {
+      "id": "memory-0163",
+      "candidate": {
+        "content": "Station Flint Annex 163 archived a calibration log for its enclosure.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-03T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-03T02:43:00+00:00"
+    },
+    {
+      "id": "memory-0063",
+      "candidate": {
+        "content": "Station Dahlia Annex 63 archived a calibration log for its enclosure.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-06T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-06T01:03:00+00:00"
+    },
+    {
+      "id": "memory-0084",
+      "candidate": {
+        "content": "Warehouse Iris Annex 84 photographed the storage cabinet after a checklist review.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-06T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-06T01:24:00+00:00"
+    },
+    {
+      "id": "memory-0173",
+      "candidate": {
+        "content": "Team Aster Annex 173 tested a backup database for weather observations.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-08T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-08T02:53:00+00:00"
+    },
+    {
+      "id": "memory-0160",
+      "candidate": {
+        "content": "Depot Opal Annex 160 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-15T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-15T02:40:00+00:00"
+    },
+    {
+      "id": "memory-0176",
+      "candidate": {
+        "content": "Warehouse Thyme Annex 176 photographed the storage cabinet after a checklist review.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-18T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-18T02:56:00+00:00"
+    },
+    {
+      "id": "memory-0158",
+      "candidate": {
+        "content": "Station Laurel Annex 158 archived a calibration log for its enclosure.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-19T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-19T02:38:00+00:00"
+    },
+    {
+      "id": "memory-0168",
+      "candidate": {
+        "content": "Depot Hazel Annex 168 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-20T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-20T02:48:00+00:00"
+    },
+    {
+      "id": "memory-0172",
+      "candidate": {
+        "content": "Project Rowan Annex 172 measured maintenance costs for paper records.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-21T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-21T02:52:00+00:00"
+    },
+    {
+      "id": "memory-0062",
+      "candidate": {
+        "content": "Team Maple Annex 62 tested a backup database for weather observations.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-22T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-22T01:02:00+00:00"
+    },
+    {
+      "id": "memory-0127",
+      "candidate": {
+        "content": "Team Opal Annex 127 tested a backup database for weather observations.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-22T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-22T02:07:00+00:00"
+    },
+    {
+      "id": "memory-0106",
+      "candidate": {
+        "content": "Station Umber Annex 106 archived a calibration log for its enclosure.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-23T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-23T01:46:00+00:00"
+    },
+    {
+      "id": "memory-0180",
+      "candidate": {
+        "content": "Team Sage Annex 180 tested a backup database for weather observations.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-23T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-23T03:00:00+00:00"
+    },
+    {
+      "id": "memory-0078",
+      "candidate": {
+        "content": "Station Elm Annex 78 archived a calibration log for its enclosure.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-25T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-25T01:18:00+00:00"
+    },
+    {
+      "id": "memory-0117",
+      "candidate": {
+        "content": "Project Quartz Annex 117 measured maintenance costs for paper records.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-06-29T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-06-29T01:57:00+00:00"
+    },
+    {
+      "id": "memory-0134",
+      "candidate": {
+        "content": "Warehouse Juniper Annex 134 photographed the storage cabinet after a checklist review.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-01T02:14:00+00:00"
+    },
+    {
+      "id": "memory-0199",
+      "candidate": {
+        "content": "Team Dahlia Annex 199 tested a backup database for weather observations.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-01T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-01T03:19:00+00:00"
+    },
+    {
+      "id": "memory-0107",
+      "candidate": {
+        "content": "Project Flint Annex 107 measured maintenance costs for paper records.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-07T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-07T01:47:00+00:00"
+    },
+    {
+      "id": "memory-0119",
+      "candidate": {
+        "content": "Warehouse Flint Annex 119 photographed the storage cabinet after a checklist review.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-09T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-09T01:59:00+00:00"
+    },
+    {
+      "id": "memory-0153",
+      "candidate": {
+        "content": "Team Pine Annex 153 tested a backup database for weather observations.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-09T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-09T02:33:00+00:00"
+    },
+    {
+      "id": "memory-0071",
+      "candidate": {
+        "content": "Team Nettle Annex 71 tested a backup database for weather observations.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-11T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-11T01:11:00+00:00"
+    },
+    {
+      "id": "memory-0079",
+      "candidate": {
+        "content": "Warehouse Aster Annex 79 photographed the storage cabinet after a checklist review.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-13T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-13T01:19:00+00:00"
+    },
+    {
+      "id": "memory-0093",
+      "candidate": {
+        "content": "Warehouse Rowan Annex 93 photographed the storage cabinet after a checklist review.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-14T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-14T01:33:00+00:00"
+    },
+    {
+      "id": "memory-0085",
+      "candidate": {
+        "content": "Depot Nettle Annex 85 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-16T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-16T01:25:00+00:00"
+    },
+    {
+      "id": "memory-0194",
+      "candidate": {
+        "content": "Depot Laurel Annex 194 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-17T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-17T03:14:00+00:00"
+    },
+    {
+      "id": "memory-0075",
+      "candidate": {
+        "content": "Team Nettle Annex 75 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-23T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-23T01:15:00+00:00"
+    },
+    {
+      "id": "memory-0178",
+      "candidate": {
+        "content": "Project Willow Annex 178 measured maintenance costs for paper records.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-24T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-24T02:58:00+00:00"
+    },
+    {
+      "id": "memory-0189",
+      "candidate": {
+        "content": "Team Juniper Annex 189 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-26T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-26T03:09:00+00:00"
+    },
+    {
+      "id": "memory-0067",
+      "candidate": {
+        "content": "Station Laurel Annex 67 archived a calibration log for its enclosure.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-27T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-27T01:07:00+00:00"
+    },
+    {
+      "id": "memory-0103",
+      "candidate": {
+        "content": "Project Laurel Annex 103 measured maintenance costs for paper records.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-27T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-27T01:43:00+00:00"
+    },
+    {
+      "id": "memory-0111",
+      "candidate": {
+        "content": "Project Sage Annex 111 measured maintenance costs for paper records.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-27T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-27T01:51:00+00:00"
+    },
+    {
+      "id": "memory-0090",
+      "candidate": {
+        "content": "Project Sage Annex 90 measured maintenance costs for paper records.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-29T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-29T01:30:00+00:00"
+    },
+    {
+      "id": "memory-0191",
+      "candidate": {
+        "content": "Warehouse Juniper Annex 191 photographed the storage cabinet after a checklist review.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-29T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-29T03:11:00+00:00"
+    },
+    {
+      "id": "memory-0157",
+      "candidate": {
+        "content": "Depot Maple Annex 157 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-07-31T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-07-31T02:37:00+00:00"
+    },
+    {
+      "id": "memory-0146",
+      "candidate": {
+        "content": "Station Elm Annex 146 archived a calibration log for its enclosure.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-03T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-03T02:26:00+00:00"
+    },
+    {
+      "id": "memory-0174",
+      "candidate": {
+        "content": "Warehouse Violet Annex 174 photographed the storage cabinet after a checklist review.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-03T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-03T02:54:00+00:00"
+    },
+    {
+      "id": "memory-0112",
+      "candidate": {
+        "content": "Warehouse Flint Annex 112 photographed the storage cabinet after a checklist review.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-04T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-04T01:52:00+00:00"
+    },
+    {
+      "id": "memory-0066",
+      "candidate": {
+        "content": "Depot Aster Annex 66 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-05T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-05T01:06:00+00:00"
+    },
+    {
+      "id": "memory-0059",
+      "candidate": {
+        "content": "Station Quartz Annex 59 archived a calibration log for its enclosure.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-08T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-08T00:59:00+00:00"
+    },
+    {
+      "id": "memory-0074",
+      "candidate": {
+        "content": "Station Sage Annex 74 archived a calibration log for its enclosure.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-10T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-10T01:14:00+00:00"
+    },
+    {
+      "id": "memory-0083",
+      "candidate": {
+        "content": "Station Willow Annex 83 archived a calibration log for its enclosure.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-12T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-12T01:23:00+00:00"
+    },
+    {
+      "id": "memory-0088",
+      "candidate": {
+        "content": "Depot Yew Annex 88 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-14T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-14T01:28:00+00:00"
+    },
+    {
+      "id": "memory-0132",
+      "candidate": {
+        "content": "Depot Nettle Annex 132 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-15T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-15T02:12:00+00:00"
+    },
+    {
+      "id": "memory-0152",
+      "candidate": {
+        "content": "Team Kite Annex 152 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-15T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-15T02:32:00+00:00"
+    },
+    {
+      "id": "memory-0137",
+      "candidate": {
+        "content": "Station Opal Annex 137 archived a calibration log for its enclosure.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-17T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-17T02:17:00+00:00"
+    },
+    {
+      "id": "memory-0186",
+      "candidate": {
+        "content": "Station Iris Annex 186 archived a calibration log for its enclosure.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-18T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-18T03:06:00+00:00"
+    },
+    {
+      "id": "memory-0197",
+      "candidate": {
+        "content": "Depot Beryl Annex 197 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-18T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-18T03:17:00+00:00"
+    },
+    {
+      "id": "memory-0192",
+      "candidate": {
+        "content": "Project Elm Annex 192 measured maintenance costs for paper records.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-19T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-19T03:12:00+00:00"
+    },
+    {
+      "id": "memory-0086",
+      "candidate": {
+        "content": "Warehouse Elm Annex 86 photographed the storage cabinet after a checklist review.",
+        "memory_type": "semantic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-25T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-25T01:26:00+00:00"
+    },
+    {
+      "id": "memory-0151",
+      "candidate": {
+        "content": "Team Hazel Annex 151 tested a backup database for weather observations.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-26T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-26T02:31:00+00:00"
+    },
+    {
+      "id": "memory-0116",
+      "candidate": {
+        "content": "Depot Violet Annex 116 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-27T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-27T01:56:00+00:00"
+    },
+    {
+      "id": "memory-0136",
+      "candidate": {
+        "content": "Station Aster Annex 136 archived a calibration log for its enclosure.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-30T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-30T02:16:00+00:00"
+    },
+    {
+      "id": "memory-0124",
+      "candidate": {
+        "content": "Station Violet Annex 124 archived a calibration log for its enclosure.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-31T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-31T02:04:00+00:00"
+    },
+    {
+      "id": "memory-0145",
+      "candidate": {
+        "content": "Station Yew Annex 145 archived a calibration log for its enclosure.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-08-31T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-08-31T02:25:00+00:00"
+    },
+    {
+      "id": "memory-0082",
+      "candidate": {
+        "content": "Depot Umber Annex 82 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-09-07T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-09-07T01:22:00+00:00"
+    },
+    {
+      "id": "memory-0182",
+      "candidate": {
+        "content": "Team Flint Annex 182 tested a backup database for weather observations.",
+        "memory_type": "preference",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-09-10T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-09-10T03:02:00+00:00"
+    },
+    {
+      "id": "memory-0190",
+      "candidate": {
+        "content": "Warehouse Aster Annex 190 photographed the storage cabinet after a checklist review.",
+        "memory_type": "procedural",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-09-11T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-09-11T03:10:00+00:00"
+    },
+    {
+      "id": "memory-0065",
+      "candidate": {
+        "content": "Depot Violet Annex 65 scheduled a quarterly inspection of spare sensors.",
+        "memory_type": "episodic",
+        "entity": null,
+        "attribute": null,
+        "value": null,
+        "scope": "global",
+        "valid_from": "2025-09-12T00:00:00+00:00",
+        "valid_to": null,
+        "confidence": 1.0,
+        "replaces": false,
+        "previous_value": null
+      },
+      "recorded_at": "2025-09-12T01:05:00+00:00"
+    }
+  ],
+  "cases": [
+    {
+      "id": "query-019",
+      "query": "Which database was Thyme using in March 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0019"
+      ],
+      "as_of": "2025-03-01T00:00:00+00:00",
+      "answer": "MariaDB"
+    },
+    {
+      "id": "query-021",
+      "query": "Which database was Hazel using in March 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0021"
+      ],
+      "as_of": "2025-03-01T00:00:00+00:00",
+      "answer": "PostgreSQL"
+    },
+    {
+      "id": "query-029",
+      "query": "Which database was Umber using in March 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0029"
+      ],
+      "as_of": "2025-03-01T00:00:00+00:00",
+      "answer": "SQLite"
+    },
+    {
+      "id": "query-047",
+      "query": "What is the insurance renewal date for Cove Depot?",
+      "category": "Unanswerable",
+      "gold_ids": [],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-049",
+      "query": "Who designed the Aster enclosure prototype?",
+      "category": "Unanswerable",
+      "gold_ids": [],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-012",
+      "query": "How does Maple keep specimens cold once taken?",
+      "category": "Semantic Paraphrase",
+      "gold_ids": [
+        "memory-0012"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-028",
+      "query": "Which database is Dahlia using in October 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0028"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "DuckDB"
+    },
+    {
+      "id": "query-039",
+      "query": "Who services Beacon station and what do they calibrate?",
+      "category": "Multi-hop",
+      "gold_ids": [
+        "memory-0047",
+        "memory-0048"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "Team Orchid, barometer"
+    },
+    {
+      "id": "query-003",
+      "query": "What enclosure material was selected for Sage?",
+      "category": "Exact Fact",
+      "gold_ids": [
+        "memory-0003"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "glass"
+    },
+    {
+      "id": "query-007",
+      "query": "What enclosure material was selected for Rowan?",
+      "category": "Exact Fact",
+      "gold_ids": [
+        "memory-0007"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "brass"
+    },
+    {
+      "id": "query-042",
+      "query": "Who services Delta station and what do they calibrate?",
+      "category": "Multi-hop",
+      "gold_ids": [
+        "memory-0053",
+        "memory-0054"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "Team Lotus, barometer"
+    },
+    {
+      "id": "query-017",
+      "query": "Where should Willow look for replacement sensors?",
+      "category": "Semantic Paraphrase",
+      "gold_ids": [
+        "memory-0017"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-050",
+      "query": "What did the Juniper procurement package cost?",
+      "category": "Unanswerable",
+      "gold_ids": [],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-036",
+      "query": "What conflicting inspection dates were reported for Cove Depot?",
+      "category": "Conflict",
+      "gold_ids": [
+        "memory-0041",
+        "memory-0042"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-010",
+      "query": "What enclosure material was selected for Quartz?",
+      "category": "Exact Fact",
+      "gold_ids": [
+        "memory-0010"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "aluminum"
+    },
+    {
+      "id": "query-041",
+      "query": "Who services Summit station and what do they calibrate?",
+      "category": "Multi-hop",
+      "gold_ids": [
+        "memory-0051",
+        "memory-0052"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "Team Frond, barometer"
+    },
+    {
+      "id": "query-034",
+      "query": "What conflicting inspection dates were reported for South Pier?",
+      "category": "Conflict",
+      "gold_ids": [
+        "memory-0037",
+        "memory-0038"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-018",
+      "query": "Which measurement system appears in Elm reports?",
+      "category": "Semantic Paraphrase",
+      "gold_ids": [
+        "memory-0018"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-005",
+      "query": "What enclosure material was selected for Nettle?",
+      "category": "Exact Fact",
+      "gold_ids": [
+        "memory-0005"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "quartz"
+    },
+    {
+      "id": "query-033",
+      "query": "What conflicting inspection dates were reported for West Pier?",
+      "category": "Conflict",
+      "gold_ids": [
+        "memory-0035",
+        "memory-0036"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-006",
+      "query": "What enclosure material was selected for Kite?",
+      "category": "Exact Fact",
+      "gold_ids": [
+        "memory-0006"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "carbon fiber"
+    },
+    {
+      "id": "query-026",
+      "query": "Which database is Aster using in October 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0026"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "SQLite"
+    },
+    {
+      "id": "query-024",
+      "query": "Which database is Iris using in October 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0024"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "PostgreSQL"
+    },
+    {
+      "id": "query-022",
+      "query": "Which database is Hazel using in October 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0022"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "MariaDB"
+    },
+    {
+      "id": "query-011",
+      "query": "Who must double-check before Beryl responds to an outage?",
+      "category": "Semantic Paraphrase",
+      "gold_ids": [
+        "memory-0011"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-013",
+      "query": "How often does Violet arrange equipment checks?",
+      "category": "Semantic Paraphrase",
+      "gold_ids": [
+        "memory-0013"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-043",
+      "query": "Who services Ridge station and what do they calibrate?",
+      "category": "Multi-hop",
+      "gold_ids": [
+        "memory-0055",
+        "memory-0056"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "Team Spruce, hygrometer"
+    },
+    {
+      "id": "query-016",
+      "query": "How does Cedar avoid simultaneous backups in every location?",
+      "category": "Semantic Paraphrase",
+      "gold_ids": [
+        "memory-0016"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-046",
+      "query": "Which database stores the Comet observatory readings?",
+      "category": "Unanswerable",
+      "gold_ids": [],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-009",
+      "query": "What enclosure material was selected for Opal?",
+      "category": "Exact Fact",
+      "gold_ids": [
+        "memory-0009"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "ceramic"
+    },
+    {
+      "id": "query-008",
+      "query": "What enclosure material was selected for Laurel?",
+      "category": "Exact Fact",
+      "gold_ids": [
+        "memory-0008"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "linen"
+    },
+    {
+      "id": "query-032",
+      "query": "What conflicting inspection dates were reported for East Pier?",
+      "category": "Conflict",
+      "gold_ids": [
+        "memory-0033",
+        "memory-0034"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-015",
+      "query": "Can Juniper keep secrets unencrypted?",
+      "category": "Semantic Paraphrase",
+      "gold_ids": [
+        "memory-0015"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-045",
+      "query": "What is the access code for the Beacon station?",
+      "category": "Unanswerable",
+      "gold_ids": [],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-040",
+      "query": "Who services Harbor station and what do they calibrate?",
+      "category": "Multi-hop",
+      "gold_ids": [
+        "memory-0049",
+        "memory-0050"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "Team Cypress, hygrometer"
+    },
+    {
+      "id": "query-020",
+      "query": "Which database is Thyme using in October 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0020"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "SQLite"
+    },
+    {
+      "id": "query-023",
+      "query": "Which database was Iris using in March 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0023"
+      ],
+      "as_of": "2025-03-01T00:00:00+00:00",
+      "answer": "DuckDB"
+    },
+    {
+      "id": "query-001",
+      "query": "What enclosure material was selected for Pine?",
+      "category": "Exact Fact",
+      "gold_ids": [
+        "memory-0001"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "copper"
+    },
+    {
+      "id": "query-031",
+      "query": "What conflicting inspection dates were reported for North Pier?",
+      "category": "Conflict",
+      "gold_ids": [
+        "memory-0031",
+        "memory-0032"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-044",
+      "query": "Who services Dune station and what do they calibrate?",
+      "category": "Multi-hop",
+      "gold_ids": [
+        "memory-0057",
+        "memory-0058"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "Team Moss, barometer"
+    },
+    {
+      "id": "query-037",
+      "query": "What conflicting inspection dates were reported for River Depot?",
+      "category": "Conflict",
+      "gold_ids": [
+        "memory-0043",
+        "memory-0044"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-002",
+      "query": "What enclosure material was selected for Flint?",
+      "category": "Exact Fact",
+      "gold_ids": [
+        "memory-0002"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "titanium"
+    },
+    {
+      "id": "query-038",
+      "query": "What conflicting inspection dates were reported for Lake Depot?",
+      "category": "Conflict",
+      "gold_ids": [
+        "memory-0045",
+        "memory-0046"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-025",
+      "query": "Which database was Aster using in March 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0025"
+      ],
+      "as_of": "2025-03-01T00:00:00+00:00",
+      "answer": "MariaDB"
+    },
+    {
+      "id": "query-048",
+      "query": "When did Team Lotus decommission its satellite?",
+      "category": "Unanswerable",
+      "gold_ids": [],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-014",
+      "query": "Can Garnet switch paths without operator intervention?",
+      "category": "Semantic Paraphrase",
+      "gold_ids": [
+        "memory-0014"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    },
+    {
+      "id": "query-004",
+      "query": "What enclosure material was selected for Yew?",
+      "category": "Exact Fact",
+      "gold_ids": [
+        "memory-0004"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "steel"
+    },
+    {
+      "id": "query-027",
+      "query": "Which database was Dahlia using in March 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0027"
+      ],
+      "as_of": "2025-03-01T00:00:00+00:00",
+      "answer": "PostgreSQL"
+    },
+    {
+      "id": "query-030",
+      "query": "Which database is Umber using in October 2025?",
+      "category": "Temporal Update",
+      "gold_ids": [
+        "memory-0030"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": "DuckDB"
+    },
+    {
+      "id": "query-035",
+      "query": "What conflicting inspection dates were reported for Hill Depot?",
+      "category": "Conflict",
+      "gold_ids": [
+        "memory-0039",
+        "memory-0040"
+      ],
+      "as_of": "2025-10-01T00:00:00+00:00",
+      "answer": null
+    }
+  ],
+  "stale_after": {
+    "memory-0019": "2025-06-01T00:00:00+00:00",
+    "memory-0021": "2025-06-01T00:00:00+00:00",
+    "memory-0023": "2025-06-01T00:00:00+00:00",
+    "memory-0025": "2025-06-01T00:00:00+00:00",
+    "memory-0027": "2025-06-01T00:00:00+00:00",
+    "memory-0029": "2025-06-01T00:00:00+00:00"
+  }
+}
