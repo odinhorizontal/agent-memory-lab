@@ -1,0 +1,7 @@
+[
+  {"id":"demo-01","effective_at":"2025-01-01T00:00:00+00:00","text":"项目使用 SQLite 数据库。"},
+  {"id":"demo-02","effective_at":"2025-02-10T00:00:00+00:00","text":"用户偏好简洁的 Python 示例。"},
+  {"id":"demo-03","effective_at":"2025-03-04T00:00:00+00:00","text":"Agent 遇到 SQLite 数据库锁冲突。遇到 SQLite database is locked 时，可以检查事务持有时间并设置合理的 busy_timeout。"},
+  {"id":"demo-04","effective_at":"2025-06-01T00:00:00+00:00","text":"项目数据库已经从 SQLite 改成 PostgreSQL。"},
+  {"id":"demo-05","effective_at":"2025-06-10T00:00:00+00:00","text":"Agent 成功执行 PostgreSQL 备份。"}
+]

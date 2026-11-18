@@ -7,7 +7,7 @@ from uuid import uuid4
 from ..extraction.base import MemoryExtractor
 from ..extraction.rule_extractor import RuleExtractor
 from ..models import Candidate, Memory, MemoryEvent, MemoryRelation, MemoryType, MemoryVersion
-from ..models import Status, Strategy, now, utc
+from ..models import RetrievalResult, Status, Strategy, now, utc
 from ..storage.sqlite_store import FROM, SELECT, SQLiteStore, filters, read_memory
 from .conflict import conflicts, duplicate, replacement
 from .consolidation import MemoryCompressionProvider, MockCompression
@@ -39,6 +39,15 @@ class MemoryManager:
     def _add(self, db, candidate, session_id, source_id, memory_id, recorded_at) -> Memory:
         if not session_id.strip() or (memory_id is not None and not memory_id.strip()):
             raise ValueError("Session and memory identifiers must be nonblank")
+        if source_id is not None:
+            records = self.store.source_records(db, self.user_id, self.agent_id,
+                                                session_id, source_id)
+            for record in records:
+                if (record.content == candidate.content and record.entity == candidate.entity
+                        and record.attribute == candidate.attribute and record.value == candidate.value
+                        and record.memory_type == candidate.memory_type and record.scope == candidate.scope
+                        and record.valid_from == candidate.valid_from and record.valid_to == candidate.valid_to):
+                    return self._head(db, record.id)
         visible = self._projected(db, candidate)
         for existing in visible:
             if duplicate(existing, candidate):
@@ -222,7 +231,7 @@ class MemoryManager:
 
     def search_memories(self, query: str, *, method: str = "Hybrid", top_k: int = 5,
                         memory_type: MemoryType | None = None, as_of: datetime | None = None,
-                        include_history: bool = False):
+                        include_history: bool = False) -> list[RetrievalResult]:
         from ..retrieval import RETRIEVERS
 
         if method not in RETRIEVERS:

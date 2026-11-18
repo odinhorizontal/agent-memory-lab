@@ -46,5 +46,5 @@ class LLMExtractor(MemoryExtractor):
             data = json.loads(response)
             _VALIDATOR.validate(data)
             return [Candidate(**record, valid_from=effective_at) for record in data["memories"]]
-        except (ValueError, ValidationError) as exc:
+        except (ValueError, ValidationError):
             raise LLMError("Completion failed memory schema or field validation") from None

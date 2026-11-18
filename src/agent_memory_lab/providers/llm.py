@@ -56,8 +56,8 @@ class OpenAICompatibleProvider(LocalLLMProvider):
         }
         request = Request(self.base_url.rstrip("/") + "/chat/completions",
                           data=json.dumps(payload).encode("utf-8"),
-                          headers={"Content-Type": "application/json",
-                                   "Authorization": "Bearer " + self.api_key}, method="POST")
+                          headers={"Content-Type": "application/json"}, method="POST")
+        request.add_unredirected_header("Authorization", "Bearer " + self.api_key.strip())
         for attempt in range(self.retries + 1):
             try:
                 with urlopen(request, timeout=self.timeout) as response:

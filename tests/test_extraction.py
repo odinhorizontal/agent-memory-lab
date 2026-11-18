@@ -20,6 +20,12 @@ def test_rule_types(sentence, kind):
     assert RuleExtractor().extract(sentence)[0].memory_type == kind
 
 
+def test_project_status_change():
+    fact, = RuleExtractor().extract("项目状态已从试验改成上线。")
+    assert (fact.attribute, fact.previous_value, fact.value) == ("status", "试验", "上线")
+    assert fact.replaces
+
+
 def test_replacement_and_unknown_text():
     extractor = RuleExtractor()
     assert extractor.extract("") == extractor.extract("早上好") == []
@@ -39,7 +45,7 @@ def test_valid_llm_and_empty():
                 attribute="database", value="SQLite", replaces=False, previous_value=None,
                 confidence=0.85)
     llm = LLMExtractor(MockLLMProvider(json.dumps({"memories": [fact]})))
-    assert llm.extract(" ")[0:] == []
+    assert llm.extract(" ") == []
     assert llm.extract("dialogue")[0].confidence == 0.85
 
 

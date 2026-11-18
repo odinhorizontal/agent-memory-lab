@@ -84,6 +84,15 @@ class SQLiteStore:
             raise KeyError(memory_id)
         return read_memory(row)
 
+    def source_records(self, db, user_id: str, agent_id: str, session_id: str,
+                       source_id: str) -> list[Memory]:
+        rows = db.execute(
+            f"SELECT {SELECT} FROM {FROM} WHERE k.user_id=? AND k.agent_id=? "
+            "AND v.session_id=? AND v.source_id=? AND v.version=1 ORDER BY v.row_id",
+            (user_id, agent_id, session_id, source_id)
+        )
+        return [read_memory(row) for row in rows]
+
     def insert(self, db, memory: Memory, *, visible: bool = True) -> None:
         if memory.version == 1:
             db.execute("INSERT INTO memory_keys VALUES (?,?,?)",
